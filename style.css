@@ -115,6 +115,7 @@
 .cars {
     border-radius: 30px;
     margin-top: 10px;
+    float: left;
 }
 .cars1 {
     border-color: #2977ce;
@@ -139,4 +140,7 @@
 }
 select {
     width: 160px;
+}
+div {
+    display: block;
 }
